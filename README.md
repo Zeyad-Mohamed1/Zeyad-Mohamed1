@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor** .
+- 🔭 I’m currently working as a **Software Engineer 💻**.
 
-- 🌱 I’m currently learning **Advanced Flutter**.
+- 🌱 I’m currently learning **Django**.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmmarAgeeza?page=1&tab=repositories)**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Zeyad-Mohamed1?tab=repositories)**.
 
 <br>
 <div align="center">
@@ -20,25 +20,9 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,javascript,react" />
+    <img src="https://skillicons.dev/icons?i=github,,vscode,figma,postman" /><br>
 </div>
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
-## 📊 My Stats:
-
-<p align="center">
-    <a href="https://github.com/AmmarAgeeza/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AmmarAgeeza's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarAgeeza&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmmarAgeeza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAgeeza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
 <div align="center">
