@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer 💻**.
 
-- 🌱 I’m currently learning **Django**.
+- 🌱 I’m currently learning **Laravel**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Zeyad-Mohamed1?tab=repositories)**.
 
