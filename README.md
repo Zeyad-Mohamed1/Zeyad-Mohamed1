@@ -1,64 +1,62 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zeyad+Sharawy!+😎;" />
-</div>
+# Zeyad Mohamed Elsharawy
 
-<br>
+**Full-Stack Developer** based in Alexandria, Egypt.  
+Building production web apps with TypeScript, React, Next.js, and NestJS — 4+ years, 30+ applications across e-commerce, fintech, education, logistics, and real estate.
 
-## 🙋‍♂️ About Me:
+[Portfolio](https://zeyad-sharawy.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/zeyad-sharawy-1401b8256) · [Email](mailto:zeyadelsharawy709@gmail.com)
 
-- 🔭 I’m currently working as a **Software Engineer 💻**.
+---
 
-- 🌱 I’m currently learning **Laravel**.
+## About
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Zeyad-Mohamed1?tab=repositories)**.
+I design and ship full-stack products end to end: UI, REST APIs, database design, and integrations (Stripe, Paymob, Firebase, Cloudinary, WebSockets). Recent work includes payment platforms, marketplaces, NFC/digital wallets, e-learning, and ERP/HR systems.
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+Also experienced with Django, Laravel, PostgreSQL, MongoDB, Redis, Docker, and Prisma.
 
-## 🚀 Languages and Tools:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,prisma,firebase,cpp,javascript,express,supabase" />
-    <img src="https://skillicons.dev/icons?i=github,vscode,figma,postman" /><br>
-</div>
+---
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+## Tech stack
 
-## 🤝 Connect With Me:
+**Frontend:** TypeScript · React · Next.js · Tailwind CSS · Redux Toolkit · Zustand · React Query  
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/zeyad-sharawy-1401b8256/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-  <a href="mailto:zeyadelsharawy709@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
- <a href="https://zeyad-sharawy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-     </a>
-     <a href="https://t.me/Zeyadmo">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
+**Backend:** NestJS · Node.js · Express · Django · Laravel · REST APIs · GraphQL · WebSockets  
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+**Data:** PostgreSQL · MongoDB · MySQL · Redis · Prisma
 
-## 💜 Views and Followers:
+**Tools:** Docker · Git · CI/CD · Firebase · Cloudinary · Stripe · Paymob · JWT · OAuth
 
-<a href="https://github.com/AmmarAgeeza?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
-</h3>
+---
 
-<br/>
+## Featured projects
+
+| Project | Description | Links |
+|---------|-------------|--------|
+| **Paybotx** | Marketing site for an enterprise card and crypto payments platform (Visa, Mastercard, Apple Pay, Google Pay, crypto), POS/hardware showcase, lead capture | [Live](https://paybotx.com) |
+| **TapSnap** | NFC/QR digital business cards and wallets — Apple Wallet passes, Stripe, agent commissions, analytics | [Live](https://tapsnap.ai) |
+| **Xoinpay** | Crypto payment gateway for merchants (300+ cryptocurrencies) — QR POS, Web3 checkout, white-label portal | [Live](https://xoinpay.com) |
+| **GiftCards Xchange** | Gift-card buy/sell/exchange marketplace — Stripe Connect, WebSockets, OAuth, admin, Telegram alerts | [Live](https://giftcardsxchange.com) |
+| **GCX Shop** | Gift-card marketplace — cart, Authorize.net, order tracking, warranty, reviews, real-time chat | [Live](https://gcxshop.com) |
+| **Roommate** | Property rental and roommate matching — AI search, booking/deposits, geocoding, WhatsApp | [Live](https://roommatesaudi.com) |
+| **Salwa Chemistry** | Bilingual e-learning for Egyptian high-school chemistry — courses, Paymob, JWT, admin dashboard | [Live](https://salwachemistry.com) |
+| **Portfolio** | Personal portfolio | [Live](https://zeyad-sharawy.vercel.app/) |
+
+Additional shipped work (details on portfolio / LinkedIn): **HR System** (multi-company HR, attendance, payroll, RBAC) · **IGR ERP** (property, accounting, HR, inventory, sales — bilingual EN/AR).
+
+---
+
+## Experience snapshot
+
+- **AMRK Company** — Full-Stack Developer (Jan 2026 – Aug 2026) — Khayrat multi-brand apps, dashboards, and backend services  
+- **TacTech AI** — Full-Stack Developer (Jan 2025 – Jan 2026) — AI-powered web apps with React, Next.js, TypeScript, REST APIs  
+- **Freelance** — Full-Stack Developer (2022 – Jan 2025) — 30+ client apps across e-commerce, logistics, education, fintech, real estate  
+
+---
+
+## Contact
+
+- **Email:** zeyadelsharawy709@gmail.com  
+- **Phone:** +20 155 918 8558  
+- **Location:** Alexandria, Egypt  
+- **Languages:** Arabic (Native) · English (B2)
+
+Open to Full-Stack, Frontend, and Backend roles (React / Next.js / NestJS) — remote or hybrid.
